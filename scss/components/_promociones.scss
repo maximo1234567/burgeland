@@ -1,0 +1,24 @@
+.Promociones-dia h2 {
+  font-family: math;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.carousel-item img {
+  border-radius: 10px;
+  height: auto;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card-img-top,
+.promociones-hover {
+  transition: transform 0.3s ease;
+}
+
+.card-img-top:hover,
+.promociones-hover:hover {
+  transform: scale(1.05);
+}

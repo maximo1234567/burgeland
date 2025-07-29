@@ -1,0 +1,28 @@
+footer {
+  background: #414141;
+  padding: 60px 0 30px;
+}
+
+.inicio-de-footer {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.conte-foo {
+  text-align: center;
+}
+
+.conte-foo h4 {
+  border-bottom: 3px solid #ffb300;
+  color: #fff;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.conte-foo p {
+  color: #ccc;
+}

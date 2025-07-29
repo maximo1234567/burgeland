@@ -1,0 +1,11 @@
+{
+  "name": "burgerland",
+  "version": "1.0.0",
+  "description": "Proyecto final con estructura SASS",
+  "scripts": {
+    "sass": "sass scss/main.scss css/estilos.css",
+    "sass:watch": "sass --watch scss/main.scss:css/estilos.css"
+  },
+  "author": "Máximo Rodríguez",
+  "license": "MIT"
+}
